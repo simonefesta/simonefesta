@@ -8,7 +8,7 @@
 
 - 🎓 I have completed my studies in Computer Engineering at the **University of Rome "Tor Vergata"**.  
 - 🔬 My research focuses on **Cybersecurity**, with a thesis on **eSIM Applets Security**.  
-- 🏢 I am currently a **Cybersecurity Researcher** @ CNIT.  
+- 🏢 I am currently a **Technical Operations Specialist** @ Roma Servizi per la Mobilità 🔴🟠.  
 
  
 
