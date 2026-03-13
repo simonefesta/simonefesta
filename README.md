@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/simonefesta">Festinho</a></h1>
-<h3 align="center">I'm a Cybersecurity Researcher from Rome, Italy. 🇮🇹</h3>
+<h3 align="center">I'm Cybersecurity enthusiast from Rome, Italy. 🇮🇹</h3>
 
 - 🎓 I have completed my studies in Computer Engineering at the **University of Rome "Tor Vergata"**.  
 - 🔬 My research focuses on **Cybersecurity**, with a thesis on **eSIM Applets Security**.  
